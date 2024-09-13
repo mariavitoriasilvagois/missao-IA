@@ -6,42 +6,42 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual a idade máxima que um cachorro pode chegar?",
+        enunciado: "Qual espírito de Bijuu o naruto habita dentro dele??",
         alternativas: [
-            "15 anos",
-            "20 anos"
+            "Kyuubi",
+            "Shukaku"
         ],
         correta: 0 // A primeira alternativa é a correta
     },
     {
-        enunciado: "Quantos dias há em um ano bissexto?",
+        enunciado: "Death Note é o nome de um caderno com poderes de?",
         alternativas: [
-            "365",
-            "366"
+            "Matar qualquer humano que tocá-lo",
+            "Matar qualquer humano que tiver o nome escrito nele"
         ],
         correta: 1 // A segunda alternativa é a correta
     },
     {
-        enunciado: "Qual é o maior planeta do nosso sistema solar?",
+        enunciado: "Em Dragon Ball ao pegar todas as esferas do dragão é possível?",
         alternativas: [
-            "Terra",
-            "Júpiter"
+            "Virar um super Sayajin",
+            "Um desejo"
         ],
         correta: 1
     },
     {
-        enunciado: "Qual é a capital da França?",
+        enunciado: "Em Haikyuu qual é o número da camisa do Hinata?",
         alternativas: [
-            "Paris",
-            "Londres"
+            "10",
+            "1"
         ],
         correta: 0
     },
     {
-        enunciado: "Qual é a fórmula química da água?",
+        enunciado: "Quem é a primeira pessoa que entra na tripulação de Luffy?",
         alternativas: [
-            "H2O",
-            "CO2"
+            "Zoro",
+            "Nami"
         ],
         correta: 0
     }
