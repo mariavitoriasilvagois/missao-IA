@@ -8,7 +8,7 @@ const perguntas = [
     {
         enunciado: "Qual espírito de Bijuu o naruto habita dentro dele??",
         alternativas: [
-            "Kyuubi",
+            "Kurama",
             "Shukaku"
         ],
         correta: 0 // A primeira alternativa é a correta
